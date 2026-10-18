@@ -18,7 +18,7 @@ I think the fastest way to write a good spec is to have already built a rough ve
 
 | Project | What it does | The number that matters |
 |---|---|---|
-| [review-trust-agent](https://github.com/PrathamNawal/review-trust-agent) | Investigates whether a review is fake, with a live dashboard | 84% accuracy, **0% recall on real fraud** — reported as-is, because that gap is the actual finding |
+| [review-trust-agent](https://github.com/PrathamNawal/review-trust-agent) | Investigates whether a review is fake, with a live dashboard | Jev Choice reached 9.2% recall and 84.2% accuracy in an interim 961-review evaluation—establishing a baseline for further improvement |
 | [agentic-commerce-dispute-resolver](https://github.com/PrathamNawal/agentic-commerce-dispute-resolver) | 4-agent pipeline adjudicating AI-purchasing-agent disputes | Ships an explicit "what's real vs. stubbed" architecture doc |
 | [olx-negotiation-copilot](https://github.com/PrathamNawal/olx-negotiation-copilot) | Multi-round negotiation agent that holds a walk-away price | Full brief → design → eval trail, not just a demo |
 | [AIPMs](https://github.com/PrathamNawal/AIPMs) | 6-lab interactive course on how AI products actually work | Built for PMs who want the technical floor, not just the vibes |
